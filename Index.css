@@ -1,0 +1,12 @@
+body{
+  font-family: Arial;
+  background:#2F539B;
+  color:white;
+}
+img{
+  width: 100%;
+}
+info{
+  border: 2px solid purple;
+  padding: 20px;
+}
